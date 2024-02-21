@@ -8,8 +8,9 @@
 </head>
 <body>
     <div class="container-py">
-        
-        <h1>List of Gadgets</h1>
+
+        <h1>Theme</h1>
+        <h2>List of Gadgets</h2>
         <ul>
             <li>Apple Vision Pro</li>
             <li>Iphone 15</li>
